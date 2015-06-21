@@ -1,5 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## This script contains two functions:
+##    1. makeCacheMatrix: Creates a list of functions
+##    2. cacheSolve: Computes an inverse of a matrix if it is not already cached and returns the inverse if the cache already has it
 
 ## Write a short comment describing this function
 
