@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## Created for Coursera R Programming Assignment 2
 ## This script contains two functions:
 ##    1. makeCacheMatrix: Creates a list of functions
 ##    2. cacheSolve: Computes an inverse of a matrix if it is not already cached and returns the inverse if the cache already has it
