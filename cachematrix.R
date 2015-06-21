@@ -4,6 +4,7 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
+  ## Return a list of functions that will be used to calculate the inverse of a matrix if that is already not cached
   m <- NULL
   set <- function(y) {
     x <<- y
